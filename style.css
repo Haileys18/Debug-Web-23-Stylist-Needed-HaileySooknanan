@@ -1,0 +1,16 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+ /*added a dash mark between font and size*/
+p {
+  color: black;
+  font-size: 12px;
+}
+/*Changed the color code to blue*/
+h1 {
+  font-weight: bold;
+  color: skyblue;
+}
+/*Changed the color code to green*/
+h2 {
+  color: seagreen;
+}
